@@ -1,0 +1,1 @@
+echo "" | cat > view.html
